@@ -12,8 +12,8 @@ Preço: R$960,00
 
 Preço: R$360,00
 
-![fogao-aberto]({{ site.url }}/fotos/fogao-aberto.jpg)
-![fogao-fechado]({{ site.url }}/fotos/fogao-fechado.jpg)
+![fogao-aberto](/fotos/fogao-aberto.jpg)
+![fogao-fechado](/fotos/fogao-fechado.jpg)
 ![fogao-superior]({{ site.url }}/fotos/fogao-superior.jpg)
 ![fogao-bocas]({{ site.url }}/fotos/fogao-bocas.jpg)
 
