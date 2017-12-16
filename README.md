@@ -5,6 +5,7 @@
 Preço: R$960,00
 
 ![sofa-frontal](/fotos/sofa-frontal.jpg)
+
 ![sofa-lateral](/fotos/sofa-lateral.jpg)
 
 ## Fogão Esmaltec Caribe 4 bocas branco bivolt
