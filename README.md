@@ -21,8 +21,8 @@ Preço: R$360,00
 
 Preço: R$240,00
 
-![armario-fechado]({{ site.url }}/fotos/armario-fechado.jpg)
-![armario-aberto-frontal]({{ site.url }}/fotos/armario-aberto-frontal.jpg)
+![armario-fechado](/fotos/armario-fechado.jpg)
+![armario-aberto-frontal](/fotos/armario-aberto-frontal.jpg)
 
 ## Escrivaninha Adrien IMB/LRJ 125x65x76H
 
