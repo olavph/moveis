@@ -1,7 +1,8 @@
 # Móveis à venda
 
-Todos os itens tem menos de 2 anos de uso e estão em ótimas condições. 
-Frete por conta do comprador. 
+Todos os itens tem menos de 2 anos de uso e estão em ótimas condições.
+
+Frete por conta do comprador.
 
 ## Sofá 3 Lugares Passion Courissímo Preto LinoForte
 
