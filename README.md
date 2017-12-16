@@ -43,4 +43,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 Preço: R$1199,99
 
-![sofa-frontal]({{ "/fotos/sofa-frontal.jpg" | absolute_url }})
+![sofa-frontal]({{ site.url }}/fotos/sofa-frontal.jpg)
