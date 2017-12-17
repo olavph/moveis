@@ -7,7 +7,7 @@ Todos os itens tem menos de 2 anos de uso e estão em ótimas condições.
 
 Frete por conta do comprador. Os produtam se encontram no centro de Campinas.
 
-Contato:
+**Contato:**
 * olav.ph.vendas@gmail.com
 * (47) 99994-2888
 
