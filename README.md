@@ -4,6 +4,9 @@ Todos os itens tem menos de 2 anos de uso e estão em ótimas condições.
 
 Frete por conta do comprador.
 
+* TOC
+{:toc}
+
 ## Sala
 
 ### Sofá 3 Lugares Passion Courissímo Preto LinoForte
