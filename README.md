@@ -7,6 +7,10 @@ Todos os itens tem menos de 2 anos de uso e estão em ótimas condições.
 
 Frete por conta do comprador. Os produtam se encontram no centro de Campinas.
 
+Contato:
+* olav.ph.vendas@gmail.com
+* (47) 99994-2888
+
 ## Sala
 
 ### Sofá 3 Lugares Passion Courissímo Preto LinoForte
