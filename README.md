@@ -5,7 +5,7 @@
 
 Todos os itens tem menos de 2 anos de uso e estão em ótimas condições.
 
-Frete por conta do comprador.
+Frete por conta do comprador. Os produtam se encontram no centro de Campinas.
 
 ## Sala
 
