@@ -1,11 +1,11 @@
+* TOC
+{:toc}
+
 # Móveis à venda
 
 Todos os itens tem menos de 2 anos de uso e estão em ótimas condições.
 
 Frete por conta do comprador.
-
-* TOC
-{:toc}
 
 ## Sala
 
