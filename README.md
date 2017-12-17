@@ -1,7 +1,3 @@
----
-title: Móveis à venda
----
-
 * TOC
 {:toc}
 
