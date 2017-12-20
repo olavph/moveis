@@ -95,8 +95,4 @@ Preço: R$700,00
 ![lavadora-diag](/fotos/lavadora-diag.jpg)
 ![lavadora-superior](/fotos/lavadora-superior.jpg)
 
-### Aspirador Pó Faciclean
-
-Preço: R$120,00
-
-![aspirador](/fotos/aspirador.jpg)
+### ~~Aspirador Pó Faciclean~~ - vendido
