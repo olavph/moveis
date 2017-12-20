@@ -57,12 +57,7 @@ Preço: R$630,00
 ![cama-diag](/fotos/cama-diag.jpg)
 ![cama-lateral](/fotos/cama-lateral.jpg)
 
-### Colchão solteiro D23 floral 078x188x12 Ecoline
-
-Preço: R$120,00
-
-![colchao-frontal](/fotos/colchao-frontal.jpg)
-![colchao-lateral](/fotos/colchao-lateral.jpg)
+### ~~Colchão solteiro D23 floral 078x188x12 Ecoline~~ - vendido
 
 ### Armário GR Lisboa 10 portas branco/mosai MDP
 
