@@ -50,12 +50,7 @@ Preço: R$150,00
 
 ## Quarto
 
-### Cama Box 1.38x1.88x28 Universo + Colchão de casal sleep max 1.38x18 D33 Castor
-
-Preço: R$630,00
-
-![cama-diag](/fotos/cama-diag.jpg)
-![cama-lateral](/fotos/cama-lateral.jpg)
+### ~~Cama Box 1.38x1.88x28 Universo + Colchão de casal sleep max 1.38x18 D33 Castor~~ vendido
 
 ### ~~Colchão solteiro D23 floral 078x188x12 Ecoline~~ - vendido
 
@@ -70,21 +65,9 @@ Preço: R$200,00
 
 ## Cozinha
 
-### Fogão Esmaltec Caribe 4 bocas branco bivolt
+### ~~Fogão Esmaltec Caribe 4 bocas branco bivolt~~ vendido
 
-Preço: R$300,00
-
-![fogao-aberto](/fotos/fogao-aberto.jpg)
-![fogao-fechado](/fotos/fogao-fechado.jpg)
-![fogao-superior](/fotos/fogao-superior.jpg)
-![fogao-bocas](/fotos/fogao-bocas.jpg)
-![fogao-interno](/fotos/fogao-interno.jpg)
-
-### Microondas Midea 20L
-
-Preço: R$230,00
-
-![microondas-frontal](/fotos/microondas-frontal.jpg)
+### ~~Microondas Midea 20L~~ - vendido
 
 ## Lavanderia
 
