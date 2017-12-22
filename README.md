@@ -71,11 +71,6 @@ Preço: R$200,00
 
 ## Lavanderia
 
-### Lavadora Brastemp Ative BWB09 9kg 110v
-
-Preço: R$700,00
-
-![lavadora-diag](/fotos/lavadora-diag.jpg)
-![lavadora-superior](/fotos/lavadora-superior.jpg)
+### ~~Lavadora Brastemp Ative BWB09 9kg 110v~~ - vendido
 
 ### ~~Aspirador Pó Faciclean~~ - vendido
