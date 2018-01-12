@@ -56,12 +56,6 @@ Preço: R$120,00
 
 ### ~~Armário GR Lisboa 10 portas branco/mosai MDP~~ - vendido
 
-Preço: R$200,00
-
-![armario-fechado](/fotos/armario-fechado.jpg)
-![armario-aberto-frontal](/fotos/armario-aberto-frontal.jpg)
-![armario-aberto-diag](/fotos/armario-aberto-diag.jpg)
-
 
 ## Cozinha
 
