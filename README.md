@@ -15,7 +15,7 @@ Frete por conta do comprador. Os produtos se encontram no centro de Campinas.
 
 ### Sofá 3 Lugares Passion Courissímo Preto LinoForte
 
-Preço: R$840,00
+Preço: R$800,00
 
 ![sofa-frontal](/fotos/sofa-frontal.jpg)
 ![sofa-lateral](/fotos/sofa-lateral.jpg)
@@ -23,14 +23,14 @@ Preço: R$840,00
 
 ### 2 Cadeiras Theo Ebano Corano Preto Etna
 
-Preço: R$160,00 cada
+Preço: R$150,00 cada
 
 ![cadeira-frontal](/fotos/cadeira-frontal.jpg)
 ![cadeiras-frontal-lateral](/fotos/cadeiras-frontal-lateral.jpg)
 
 ### Escrivaninha Adrien IMB/LRJ 125x65x76H
 
-Preço: R$450,00
+Preço: R$420,00
 
 ![mesa-frontal](/fotos/mesa-frontal.jpg)
 ![mesa-paralela](/fotos/mesa-paralela.jpg)
@@ -39,7 +39,7 @@ Preço: R$450,00
 
 ### Rack Beginnings Pinhao 90x40x55H
 
-Preço: R$150,00
+Preço: R$120,00
 
 ![rack-com-tv](/fotos/rack-com-tv.jpg)
 ![rack-frontal](/fotos/rack-frontal.jpg)
@@ -50,11 +50,11 @@ Preço: R$150,00
 
 ## Quarto
 
-### ~~Cama Box 1.38x1.88x28 Universo + Colchão de casal sleep max 1.38x18 D33 Castor~~ vendido
+### ~~Cama Box 1.38x1.88x28 Universo + Colchão de casal sleep max 1.38x18 D33 Castor~~ - vendido
 
 ### ~~Colchão solteiro D23 floral 078x188x12 Ecoline~~ - vendido
 
-### Armário GR Lisboa 10 portas branco/mosai MDP
+### ~~Armário GR Lisboa 10 portas branco/mosai MDP~~ - vendido
 
 Preço: R$200,00
 
