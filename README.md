@@ -21,21 +21,9 @@ Preço: R$800,00
 ![sofa-lateral](/fotos/sofa-lateral.jpg)
 ![sofa-diag](/fotos/sofa-diag.jpg)
 
-### 2 Cadeiras Theo Ebano Corano Preto Etna
+### ~~2 Cadeiras Theo Ebano Corano Preto Etna~~ - vendido
 
-Preço: R$150,00 cada
-
-![cadeira-frontal](/fotos/cadeira-frontal.jpg)
-![cadeiras-frontal-lateral](/fotos/cadeiras-frontal-lateral.jpg)
-
-### Escrivaninha Adrien IMB/LRJ 125x65x76H
-
-Preço: R$420,00
-
-![mesa-frontal](/fotos/mesa-frontal.jpg)
-![mesa-paralela](/fotos/mesa-paralela.jpg)
-![mesa-com-cadeiras](/fotos/mesa-com-cadeiras.jpg)
-![mesa-com-cadeiras-diag](/fotos/mesa-com-cadeiras-diag.jpg)
+### ~~Escrivaninha Adrien IMB/LRJ 125x65x76H~~ - vendido
 
 ### Rack Beginnings Pinhao 90x40x55H
 
